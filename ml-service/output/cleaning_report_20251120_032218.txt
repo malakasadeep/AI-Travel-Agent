@@ -1,0 +1,61 @@
+
+Data Cleaning Report
+Generated: 2025-11-20 03:22:26
+
+======================================================================
+INPUT DATA
+======================================================================
+Source: MongoDB Atlas (aiTourGuide.reviews)
+Total raw reviews: 25,878
+
+======================================================================
+CLEANING STEPS
+======================================================================
+
+1. Text Cleaning:
+   - Fixed encoding issues
+   - Removed HTML tags
+   - Removed URLs
+   - Removed special characters
+   - Expanded contractions
+   - Normalized whitespace
+
+2. Location Standardization:
+   - Standardized location names to title case
+   - Applied location mappings
+   - Unique destinations: 147
+   - Unique districts: 7
+   - Unique location types: 12
+
+3. Deduplication:
+   - Removed exact duplicates: 716
+   - Deduplication rate: 2.77%
+
+4. Quality Filtering:
+   - Minimum word count: 10 words
+   - Reviews filtered: 10,211
+   - Filter rate: 40.58%
+
+======================================================================
+OUTPUT DATA
+======================================================================
+Total cleaned reviews: 14,951
+Retention rate: 57.77%
+
+Saved to:
+  - MongoDB: aiTourGuide.cleaned_reviews
+  - CSV: ../output\cleaned_reviews_20251120_032218.csv
+
+======================================================================
+QUALITY METRICS
+======================================================================
+Average review length: 41.3 words
+Min review length: 10 words
+Max review length: 655 words
+
+Data completeness: 100%
+Duplicates: 0
+
+======================================================================
+STATUS: ✓ CLEANING COMPLETED SUCCESSFULLY
+======================================================================
