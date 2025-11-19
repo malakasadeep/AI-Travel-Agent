@@ -1,0 +1,2376 @@
+[
+  {
+    "locationId": "bentota-beach-001",
+    "name": "Bentota Beach",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [79.9997, 6.4215]
+    },
+    "category": ["beach", "nature", "water-sports"],
+    "details": {
+      "description": "Bentota Beach is an idyllic stretch of golden sand on Sri Lanka's southern coast, renowned for its calm waters and water sports activities. This pristine beach offers a perfect balance between relaxation and adventure.",
+      "historicalInfo": "Named after a mythical demon 'Bem' who ruled the river bank, Bentota began as a Portuguese settlement in the 16th century. The area was later developed as a tourist destination in the late 20th century, influenced by architect Geoffrey Bawa.",
+      "culturalSignificance": "Bentota embodies the Sri Lankan coastal lifestyle and is famous for toddy production, an alcoholic beverage made from coconut nectar. The area showcases the balance between beachside leisure and cultural experiences.",
+      "bestTimeToVisit": ["December", "January", "February", "March"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["parking", "restaurants", "water sports centers", "hotels", "restrooms", "lifeguards"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Bus from Colombo Fort (2-2.5 hours), train to Aluthgama station (2km away)"
+      }
+    }
+  },
+  {
+    "locationId": "sigiriya-rock-001",
+    "name": "Sigiriya The Ancient Rock Fortress",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7604, 7.9570]
+    },
+    "category": ["historical", "heritage", "nature"],
+    "details": {
+      "description": "Sigiriya is an ancient rock fortress rising 200m from the surrounding plains, featuring ruins of King Kashyapa's 5th-century palace, famous frescoes, and the iconic Lion Gate entrance.",
+      "historicalInfo": "Built in 477 CE by King Kashyapa I as his capital and palace complex. After his defeat, it became a Buddhist monastery. The site has been inhabited since the Mesolithic period.",
+      "culturalSignificance": "UNESCO World Heritage Site since 1982. One of the best examples of ancient urban planning, combining sophisticated city design with natural beauty. Known as the 'Eighth Wonder of the World'.",
+      "bestTimeToVisit": ["January", "February", "March", "April"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "05:00-18:30",
+        "tuesday": "05:00-18:30",
+        "wednesday": "05:00-18:30",
+        "thursday": "05:00-18:30",
+        "friday": "05:00-18:30",
+        "saturday": "05:00-18:30",
+        "sunday": "05:00-18:30"
+      },
+      "entryFees": {
+        "local": 50,
+        "foreign": 4500,
+        "saarc": 2250
+      },
+      "facilities": ["parking", "museum", "toilets", "guides available", "ticket counter"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Bus from Dambulla (40 minutes), 175km from Colombo"
+      }
+    }
+  },
+  {
+    "locationId": "galle-fort-001",
+    "name": "Galle Fort",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2170, 6.0270]
+    },
+    "category": ["historical", "heritage", "colonial"],
+    "details": {
+      "description": "A UNESCO World Heritage Site, Galle Fort is one of the best-preserved Dutch colonial fortifications in Asia. The fort encompasses narrow streets, colonial buildings, museums, and the iconic lighthouse.",
+      "historicalInfo": "Originally built by the Portuguese in 1588, extensively fortified by the Dutch from 1649. The fort served as an important trading port for the Dutch East India Company.",
+      "culturalSignificance": "UNESCO World Heritage Site since 1988. Represents the interaction between European colonial architecture and South Asian traditions. Contains churches, mosques, temples showing religious harmony.",
+      "bestTimeToVisit": ["December", "January", "February", "March", "April"],
+      "averageDuration": 240
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0,
+        "museums": 300
+      },
+      "facilities": ["parking", "restaurants", "cafes", "museums", "shops", "hotels", "toilets"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "119km from Colombo, accessible by bus, train, and car"
+      }
+    }
+  },
+  {
+    "locationId": "mirissa-beach-001",
+    "name": "Mirissa Beach",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.4585, 5.9485]
+    },
+    "category": ["beach", "nature", "whale-watching"],
+    "details": {
+      "description": "Mirissa Beach is a crescent-shaped paradise on Sri Lanka's south coast, famous for whale watching tours, surfing, and stunning sunsets. The beach offers both relaxation and adventure activities.",
+      "historicalInfo": "Mirissa was traditionally a fishing village that has transformed into a popular tourist destination while maintaining its laid-back charm.",
+      "culturalSignificance": "One of the world's best locations for blue whale watching. The area maintains traditional stilt fishing practices and local fishing culture.",
+      "bestTimeToVisit": ["November", "December", "January", "February", "March", "April"],
+      "averageDuration": 240
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "whaleWatching": "06:00-11:00"
+      },
+      "entryFees": {
+        "beach": 0,
+        "whaleWatching": 6000
+      },
+      "facilities": ["restaurants", "bars", "water sports", "whale watching tours", "surfing", "accommodation"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "40 minutes from Galle, 4 hours from Colombo by bus"
+      }
+    }
+  },
+  {
+    "locationId": "dambulla-cave-001",
+    "name": "Dambulla Cave Temple",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.6517, 7.8568]
+    },
+    "category": ["temple", "heritage", "religious"],
+    "details": {
+      "description": "The largest and best-preserved cave temple complex in Sri Lanka, featuring five caves with over 150 Buddha statues and 2,100 square meters of painted walls and ceilings.",
+      "historicalInfo": "Dating back to the 1st century BCE, King Valagamba took refuge here for 14 years. After regaining his throne, he transformed the caves into temples in gratitude.",
+      "culturalSignificance": "UNESCO World Heritage Site since 1991. A living Buddhist monastery for over 22 centuries, showcasing the evolution of Sri Lankan Buddhist art and architecture.",
+      "bestTimeToVisit": ["January", "February", "March", "April", "December"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "07:00-19:00",
+        "tuesday": "07:00-19:00",
+        "wednesday": "07:00-19:00",
+        "thursday": "07:00-19:00",
+        "friday": "07:00-19:00",
+        "saturday": "07:00-19:00",
+        "sunday": "07:00-19:00"
+      },
+      "entryFees": {
+        "local": 50,
+        "foreign": 2000
+      },
+      "facilities": ["parking", "shoe storage", "toilets", "sarong rental"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "15km from Sigiriya, buses available from Kandy and Colombo"
+      }
+    }
+  },
+  {
+    "locationId": "hikkaduwa-beach-001",
+    "name": "Hikkaduwa Beach",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.0989, 6.1407]
+    },
+    "category": ["beach", "nature", "surfing", "diving"],
+    "details": {
+      "description": "A vibrant beach town known for its coral sanctuary, surfing waves, and lively atmosphere. The beach stretches for several kilometers with different sections for various activities.",
+      "historicalInfo": "Hikkaduwa has been a tourist destination since the 1960s, attracting surfers and beach lovers from around the world.",
+      "culturalSignificance": "Home to one of Sri Lanka's marine sanctuaries protecting coral reefs and sea turtles. The area maintains a balance between tourism and marine conservation.",
+      "bestTimeToVisit": ["November", "December", "January", "February", "March", "April"],
+      "averageDuration": 240
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["restaurants", "bars", "surf schools", "diving centers", "accommodation", "shops"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "100km from Colombo, accessible by train and bus"
+      }
+    }
+  },
+  {
+    "locationId": "jungle-beach-001",
+    "name": "Jungle Beach",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2280, 6.0120]
+    },
+    "category": ["beach", "nature"],
+    "details": {
+      "description": "A secluded paradise beach near Unawatuna, accessible through a jungle path. Known for its pristine sand, clear waters, and peaceful atmosphere.",
+      "historicalInfo": "Once a hidden gem known only to locals, Jungle Beach has gained popularity while maintaining its natural beauty.",
+      "culturalSignificance": "Represents Sri Lanka's commitment to preserving natural coastal environments alongside tourism development.",
+      "bestTimeToVisit": ["December", "January", "February", "March"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 500
+      },
+      "facilities": ["basic restaurants", "snorkeling equipment rental"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "5km from Galle, accessible by tuk-tuk then walking"
+      }
+    }
+  },
+  {
+    "locationId": "gregory-lake-001",
+    "name": "Gregory Lake",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7798, 6.9556]
+    },
+    "category": ["nature", "recreation"],
+    "details": {
+      "description": "A picturesque man-made lake in Nuwara Eliya, offering boat rides, walking paths, and scenic views of the surrounding hills.",
+      "historicalInfo": "Created in 1873 during the British colonial period by Governor William Gregory as a reservoir and recreational facility.",
+      "culturalSignificance": "A testament to colonial engineering and urban planning, now a popular recreational spot for locals and tourists.",
+      "bestTimeToVisit": ["February", "March", "April", "May"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 200,
+        "foreign": 600
+      },
+      "facilities": ["boat rides", "walking paths", "restaurants", "pony rides", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "2km from Nuwara Eliya town center"
+      }
+    }
+  },
+  {
+    "locationId": "horton-plains-001",
+    "name": "Horton Plains National Park",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8000, 6.8000]
+    },
+    "category": ["nature", "hiking", "national-park"],
+    "details": {
+      "description": "A protected area featuring World's End cliff, Baker's Falls, and unique montane grassland ecosystem at 2,100-2,300m elevation.",
+      "historicalInfo": "Named after Sir Robert Wilmot-Horton, British Governor of Ceylon from 1831-1837. Designated as a national park in 1988.",
+      "culturalSignificance": "UNESCO World Heritage Site as part of Central Highlands. Home to endemic species and important watershed for major rivers.",
+      "bestTimeToVisit": ["January", "February", "March", "April"],
+      "averageDuration": 240
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-16:00",
+        "tuesday": "06:00-16:00",
+        "wednesday": "06:00-16:00",
+        "thursday": "06:00-16:00",
+        "friday": "06:00-16:00",
+        "saturday": "06:00-16:00",
+        "sunday": "06:00-16:00"
+      },
+      "entryFees": {
+        "local": 60,
+        "foreign": 3000,
+        "vehicle": 250
+      },
+      "facilities": ["visitor center", "toilets", "parking", "guided tours"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "32km from Nuwara Eliya, requires private transport"
+      }
+    }
+  },
+  {
+    "locationId": "minneriya-park-001",
+    "name": "Minneriya National Park",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8494, 8.0367]
+    },
+    "category": ["nature", "wildlife", "national-park"],
+    "details": {
+      "description": "Famous for the annual elephant gathering, where up to 300 elephants congregate around the Minneriya reservoir during dry season.",
+      "historicalInfo": "The Minneriya tank was built by King Mahasen in 3rd century AD. Designated as a national park in 1997.",
+      "culturalSignificance": "Home to the world's largest gathering of Asian elephants, an important wildlife corridor between parks.",
+      "bestTimeToVisit": ["July", "August", "September", "October"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:30",
+        "tuesday": "06:00-18:30",
+        "wednesday": "06:00-18:30",
+        "thursday": "06:00-18:30",
+        "friday": "06:00-18:30",
+        "saturday": "06:00-18:30",
+        "sunday": "06:00-18:30"
+      },
+      "entryFees": {
+        "local": 60,
+        "foreign": 3000,
+        "vehicle": 250,
+        "jeepSafari": 4500
+      },
+      "facilities": ["visitor center", "safari jeeps", "guides", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "22km from Habarana, safari jeeps available"
+      }
+    }
+  },
+  {
+    "locationId": "ravana-falls-001",
+    "name": "Ravana Ella Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0572, 6.8456]
+    },
+    "category": ["nature", "waterfall"],
+    "details": {
+      "description": "A spectacular 25-meter high waterfall located near Ella, named after the legendary king Ravana from the Ramayana epic.",
+      "historicalInfo": "According to legend, King Ravana hid Princess Sita in caves behind the waterfall. The falls have been a landmark for centuries.",
+      "culturalSignificance": "Connected to the Ramayana epic, making it significant for both Buddhist and Hindu visitors. Popular pilgrimage and tourist site.",
+      "bestTimeToVisit": ["October", "November", "December", "January"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["parking", "viewing areas", "small shops"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "6km from Ella town, accessible by tuk-tuk or bus"
+      }
+    }
+  },
+  {
+    "locationId": "tea-factory-001",
+    "name": "Pedro Tea Factory",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7744, 6.9821]
+    },
+    "category": ["cultural", "education", "tea-tourism"],
+    "details": {
+      "description": "A working tea factory offering tours showcasing the complete tea production process from plucking to packaging, with tastings included.",
+      "historicalInfo": "Established in 1885 during the British colonial period, one of the oldest tea factories still in operation.",
+      "culturalSignificance": "Part of Sri Lanka's tea heritage, contributing to the country's reputation as one of the world's finest tea producers.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "08:00-17:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 500
+      },
+      "facilities": ["guided tours", "tea shop", "tasting room", "parking", "toilets"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "3.5km from Nuwara Eliya"
+      }
+    }
+  },
+  {
+    "locationId": "yala-elephant-001",
+    "name": "Minneriya Tusker Safaris",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8494, 8.0367]
+    },
+    "category": ["wildlife", "safari", "nature"],
+    "details": {
+      "description": "Specialized safari tours focusing on elephant watching in Minneriya National Park, particularly during the famous elephant gathering.",
+      "historicalInfo": "Safari tourism developed in the area following the park's designation in 1997.",
+      "culturalSignificance": "Promotes wildlife conservation and eco-tourism, supporting local communities.",
+      "bestTimeToVisit": ["July", "August", "September", "October"],
+      "averageDuration": 210
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:30",
+        "tuesday": "06:00-18:30",
+        "wednesday": "06:00-18:30",
+        "thursday": "06:00-18:30",
+        "friday": "06:00-18:30",
+        "saturday": "06:00-18:30",
+        "sunday": "06:00-18:30"
+      },
+      "entryFees": {
+        "halfDaySafari": 4500,
+        "fullDaySafari": 8000,
+        "parkEntrance": 3000
+      },
+      "facilities": ["4x4 vehicles", "experienced guides", "binoculars", "water provided"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Tours pickup from nearby hotels"
+      }
+    }
+  },
+  {
+    "locationId": "turtle-farm-001",
+    "name": "Sea Turtle Farm Galle Mahamodara",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2435, 6.0040]
+    },
+    "category": ["conservation", "education", "nature"],
+    "details": {
+      "description": "A turtle conservation center protecting endangered sea turtles, rescuing eggs, and releasing hatchlings to the ocean.",
+      "historicalInfo": "Established in the 1980s as part of sea turtle conservation efforts along Sri Lanka's coast.",
+      "culturalSignificance": "Promotes marine conservation awareness and protects five species of endangered sea turtles.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-18:00",
+        "tuesday": "08:00-18:00",
+        "wednesday": "08:00-18:00",
+        "thursday": "08:00-18:00",
+        "friday": "08:00-18:00",
+        "saturday": "08:00-18:00",
+        "sunday": "08:00-18:00"
+      },
+      "entryFees": {
+        "local": 200,
+        "foreign": 500
+      },
+      "facilities": ["guided tours", "turtle pools", "information center", "gift shop"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "5km from Galle, accessible by tuk-tuk"
+      }
+    }
+  },
+  {
+    "locationId": "sinharaja-forest-001",
+    "name": "Sinharaja Forest Reserve",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.4333, 6.4167]
+    },
+    "category": ["nature", "hiking", "biodiversity"],
+    "details": {
+      "description": "Sri Lanka's last viable primary tropical rainforest, a biodiversity hotspot with numerous endemic species of flora and fauna.",
+      "historicalInfo": "Protected since 1875, designated as a Biosphere Reserve in 1978 and UNESCO World Heritage Site in 1988.",
+      "culturalSignificance": "One of the world's biodiversity hotspots, crucial for conservation and scientific research. Sacred forest in local culture.",
+      "bestTimeToVisit": ["December", "January", "February", "March", "April"],
+      "averageDuration": 300
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:30-16:30",
+        "tuesday": "06:30-16:30",
+        "wednesday": "06:30-16:30",
+        "thursday": "06:30-16:30",
+        "friday": "06:30-16:30",
+        "saturday": "06:30-16:30",
+        "sunday": "06:30-16:30"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 2500,
+        "guide": 2000
+      },
+      "facilities": ["visitor center", "guided trails", "research center", "basic accommodation"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Multiple entrances, closest town Deniyaya (4km)"
+      }
+    }
+  },
+  {
+    "locationId": "bakers-falls-001",
+    "name": "Baker's Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7886, 6.8091]
+    },
+    "category": ["nature", "waterfall", "hiking"],
+    "details": {
+      "description": "A picturesque 20-meter waterfall in Horton Plains, accessible via a scenic hiking trail through montane forest.",
+      "historicalInfo": "Named after Sir Samuel Baker, British explorer and big game hunter who explored the area in the 1840s-1850s.",
+      "culturalSignificance": "Part of the World Heritage Central Highlands, important water source for surrounding areas.",
+      "bestTimeToVisit": ["January", "February", "March", "April"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-16:00",
+        "tuesday": "06:00-16:00",
+        "wednesday": "06:00-16:00",
+        "thursday": "06:00-16:00",
+        "friday": "06:00-16:00",
+        "saturday": "06:00-16:00",
+        "sunday": "06:00-16:00"
+      },
+      "entryFees": {
+        "includedInHortonPlains": true,
+        "local": 60,
+        "foreign": 3000
+      },
+      "facilities": ["hiking trail", "viewing point"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Part of Horton Plains, 32km from Nuwara Eliya"
+      }
+    }
+  },
+  {
+    "locationId": "diyaluma-falls-001",
+    "name": "Diyaluma Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0314, 6.7331]
+    },
+    "category": ["nature", "waterfall", "hiking"],
+    "details": {
+      "description": "Sri Lanka's second highest waterfall at 220m, featuring natural pools at the top and stunning views of the surrounding landscape.",
+      "historicalInfo": "The name derives from Sinhala 'Diya Haluma' meaning 'rapid flow of water'. Featured in local folklore and legends.",
+      "culturalSignificance": "Associated with local folklore about a prince who fell from the cliff. Popular pilgrimage site during local festivals.",
+      "bestTimeToVisit": ["October", "November", "December", "January"],
+      "averageDuration": 240
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["parking", "small shops", "local guides available"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "13km from Haputale, accessible by bus or tuk-tuk"
+      }
+    }
+  },
+  {
+    "locationId": "dutch-reformed-church-001",
+    "name": "Dutch Reformed Church",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2170, 6.0280]
+    },
+    "category": ["historical", "religious", "colonial"],
+    "details": {
+      "description": "A historic Protestant church built in 1640, featuring Dutch colonial architecture with baroque facade and original furnishings.",
+      "historicalInfo": "Built by the Dutch in 1640, renovated between 1752-1755. Floor paved with gravestones from the old Dutch cemetery.",
+      "culturalSignificance": "Important example of Dutch colonial religious architecture. Features 1760 organ and calamander wood pulpit from Malaysia.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 45
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "09:00-17:00",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "09:00-17:00"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0,
+        "donations": "encouraged"
+      },
+      "facilities": ["guided tours available", "photography allowed without flash"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Within Galle Fort, walking distance"
+      }
+    }
+  },
+  {
+    "locationId": "ambewela-farms-001",
+    "name": "Ambewela Farms",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8258, 6.8843]
+    },
+    "category": ["agriculture", "education", "family"],
+    "details": {
+      "description": "New Zealand-style dairy farm in the highlands, offering farm tours and fresh dairy products in scenic mountain setting.",
+      "historicalInfo": "Established in 1940s with New Zealand expertise, one of Sri Lanka's largest dairy farms.",
+      "culturalSignificance": "Important for Sri Lanka's dairy industry, showcases modern farming techniques in highland conditions.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "08:00-17:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 300
+      },
+      "facilities": ["farm tours", "dairy shop", "restaurant", "picnic areas", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "20km from Nuwara Eliya, requires private transport"
+      }
+    }
+  },
+  {
+    "locationId": "bluefield-tea-001",
+    "name": "Bluefield Tea Gardens",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8322, 6.9881]
+    },
+    "category": ["tea-tourism", "cultural", "scenic"],
+    "details": {
+      "description": "Scenic tea estate offering tours through verdant plantations, factory visits, and premium tea tastings with panoramic views.",
+      "historicalInfo": "Established during British colonial period, part of Sri Lanka's highland tea growing region.",
+      "culturalSignificance": "Contributes to Sri Lanka's reputation as Ceylon tea producer, maintains traditional tea cultivation methods.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "08:00-17:00"
+      },
+      "entryFees": {
+        "local": 200,
+        "foreign": 600
+      },
+      "facilities": ["factory tours", "tea shop", "restaurant", "viewing points", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "6km from Nuwara Eliya, accessible by tuk-tuk"
+      }
+    }
+  },
+  {
+    "locationId": "damro-labookellie-001",
+    "name": "Damro Labookellie Tea Centre and Tea Garden",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7892, 6.9523]
+    },
+    "category": ["tea-tourism", "cultural", "education"],
+    "details": {
+      "description": "One of Sri Lanka's largest tea estates offering comprehensive tours including plantation walks, factory visits, and tea tasting sessions.",
+      "historicalInfo": "Founded in 1841, one of the oldest tea estates in Sri Lanka with over 180 years of tea cultivation history.",
+      "culturalSignificance": "Major contributor to Ceylon tea heritage, pioneered many tea cultivation techniques still used today.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:30-18:00",
+        "tuesday": "08:30-18:00",
+        "wednesday": "08:30-18:00",
+        "thursday": "08:30-18:00",
+        "friday": "08:30-18:00",
+        "saturday": "08:30-18:00",
+        "sunday": "08:30-18:00"
+      },
+      "entryFees": {
+        "tour": "free",
+        "tasting": 200
+      },
+      "facilities": ["factory tour", "tea lounge", "retail shop", "garden walks", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "17km from Nuwara Eliya on Nuwara Eliya-Kandy road"
+      }
+    }
+  },
+  {
+    "locationId": "glenloch-tea-001",
+    "name": "Glenloch Tea Factory",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8567, 6.9234]
+    },
+    "category": ["tea-tourism", "cultural", "heritage"],
+    "details": {
+      "description": "Historic tea factory showcasing traditional tea production methods with guided tours through the manufacturing process.",
+      "historicalInfo": "Established in 1900s during the peak of Ceylon tea expansion, maintains original machinery and processes.",
+      "culturalSignificance": "Preserves traditional tea manufacturing methods, important for understanding Ceylon tea heritage.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "closed"
+      },
+      "entryFees": {
+        "local": 150,
+        "foreign": 500
+      },
+      "facilities": ["guided tours", "tea shop", "viewing deck", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Near Katukithula, 15km from Nuwara Eliya"
+      }
+    }
+  },
+  {
+    "locationId": "halpewatte-tea-001",
+    "name": "Halpewatte Tea Factory Tour",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0612, 6.7456]
+    },
+    "category": ["tea-tourism", "cultural"],
+    "details": {
+      "description": "Working tea factory in the Uva region offering authentic tours showcasing the complete tea production process.",
+      "historicalInfo": "Part of the Uva tea growing region, known for producing distinctive flavored teas since colonial times.",
+      "culturalSignificance": "Represents Uva region's contribution to Ceylon tea, known for unique seasonal flavors.",
+      "bestTimeToVisit": ["July", "August", "September"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "08:00-17:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 400
+      },
+      "facilities": ["factory tours", "tea tasting", "sales center", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Near Ella, accessible by tuk-tuk"
+      }
+    }
+  },
+  {
+    "locationId": "handunugoda-tea-001",
+    "name": "Handunugoda Tea Estate",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2678, 5.9734]
+    },
+    "category": ["tea-tourism", "cultural", "unique"],
+    "details": {
+      "description": "Unique lowland tea estate famous for producing Virgin White Tea, one of the world's most expensive teas, near the coast.",
+      "historicalInfo": "Established in 1940s, revolutionized by Herman Gunaratne who introduced unique tea varieties including Virgin White Tea.",
+      "culturalSignificance": "Only tea estate near the ocean, produces unique teas including the famous Virgin White Tea untouched by human hands.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "09:00-17:00",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "09:00-17:00"
+      },
+      "entryFees": {
+        "tour": 1000,
+        "tasting": "included"
+      },
+      "facilities": ["guided tours", "tea museum", "tasting lounge", "gift shop", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "17km from Galle, requires private transport"
+      }
+    }
+  },
+  {
+    "locationId": "hakgala-botanical-001",
+    "name": "Hakgala Botanic Gardens",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8172, 6.9286]
+    },
+    "category": ["nature", "botanical", "education"],
+    "details": {
+      "description": "Second largest botanical garden in Sri Lanka at 1,670m elevation, specializing in temperate zone flora and roses.",
+      "historicalInfo": "Established in 1861 to cultivate Cinchona for quinine production, later converted to botanical garden.",
+      "culturalSignificance": "Associated with Ramayana legend as garden of Ravana. Important for conservation of temperate flora.",
+      "bestTimeToVisit": ["March", "April", "May"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:30",
+        "tuesday": "08:00-17:30",
+        "wednesday": "08:00-17:30",
+        "thursday": "08:00-17:30",
+        "friday": "08:00-17:30",
+        "saturday": "08:00-17:30",
+        "sunday": "08:00-17:30"
+      },
+      "entryFees": {
+        "local": 60,
+        "foreign": 1500
+      },
+      "facilities": ["visitor center", "guided tours", "plant nursery", "toilets", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "16km from Nuwara Eliya, buses available"
+      }
+    }
+  },
+  {
+    "locationId": "victoria-park-001",
+    "name": "Victoria Park of Nuwara Eliya",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7667, 6.9667]
+    },
+    "category": ["park", "nature", "recreation"],
+    "details": {
+      "description": "Well-maintained urban park in the heart of Nuwara Eliya with landscaped gardens, walking paths, and diverse bird species.",
+      "historicalInfo": "Originally the research field of Hakgala Botanical Garden, formally named Victoria Park in 1897 commemorating Queen Victoria's Diamond Jubilee.",
+      "culturalSignificance": "Central recreational space for Nuwara Eliya, hosts flower shows and is important for urban biodiversity.",
+      "bestTimeToVisit": ["March", "April", "May"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "07:00-18:00",
+        "tuesday": "07:00-18:00",
+        "wednesday": "07:00-18:00",
+        "thursday": "07:00-18:00",
+        "friday": "07:00-18:00",
+        "saturday": "07:00-18:00",
+        "sunday": "07:00-18:00"
+      },
+      "entryFees": {
+        "local": 20,
+        "foreign": 300
+      },
+      "facilities": ["walking paths", "children's playground", "benches", "flower gardens", "bird watching"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Walking distance from Nuwara Eliya town center"
+      }
+    }
+  },
+  {
+    "locationId": "ariyapala-mask-001",
+    "name": "Ariyapala Mask Museum",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.0223, 6.5847]
+    },
+    "category": ["cultural", "museum", "traditional-arts"],
+    "details": {
+      "description": "Traditional mask museum showcasing the art of Sri Lankan mask making, featuring collection of traditional devil dance masks.",
+      "historicalInfo": "Established by master craftsman Ariyapala & Sons, representing six generations of mask carving tradition.",
+      "culturalSignificance": "Preserves the traditional art of mask making used in various Sri Lankan rituals and performances including Kolam and Sanni.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:30-17:30",
+        "tuesday": "08:30-17:30",
+        "wednesday": "08:30-17:30",
+        "thursday": "08:30-17:30",
+        "friday": "08:30-17:30",
+        "saturday": "08:30-17:30",
+        "sunday": "08:30-17:30"
+      },
+      "entryFees": {
+        "local": 200,
+        "foreign": 500
+      },
+      "facilities": ["guided tours", "mask-making demonstrations", "gift shop", "workshop viewing"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Located in Ambalangoda, 86km from Colombo"
+      }
+    }
+  },
+  {
+    "locationId": "tsunami-museum-001",
+    "name": "Community Tsunami Museum",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.3667, 6.1833]
+    },
+    "category": ["museum", "education", "memorial"],
+    "details": {
+      "description": "Educational museum documenting the 2004 Indian Ocean tsunami impact on Sri Lanka and recovery efforts.",
+      "historicalInfo": "Established after the December 26, 2004 tsunami that devastated coastal areas, killing over 35,000 Sri Lankans.",
+      "culturalSignificance": "Memorial to tsunami victims, educational resource for disaster preparedness and community resilience.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "09:00-17:00",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "10:00-16:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 300
+      },
+      "facilities": ["exhibits", "photo gallery", "video presentations", "educational materials"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Located in Telwatta, accessible by bus from Galle"
+      }
+    }
+  },
+  {
+    "locationId": "wickramasinghe-museum-001",
+    "name": "Martin Wickramasinghe Folk Museum Complex",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.4234, 5.9456]
+    },
+    "category": ["museum", "cultural", "literary"],
+    "details": {
+      "description": "Museum complex dedicated to famous Sri Lankan author Martin Wickramasinghe, showcasing traditional rural life and culture.",
+      "historicalInfo": "Established in 1981 in the ancestral home of Martin Wickramasinghe, one of Sri Lanka's premier novelists.",
+      "culturalSignificance": "Preserves traditional Sinhalese culture, rural artifacts, and literary heritage of southern Sri Lanka.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "09:00-17:00",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "09:00-17:00"
+      },
+      "entryFees": {
+        "local": 30,
+        "foreign": 200
+      },
+      "facilities": ["folk museum", "library", "traditional house", "puppet museum", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Located in Koggala, 15km from Galle"
+      }
+    }
+  },
+  {
+    "locationId": "sigiriya-museum-001",
+    "name": "Sigiriya Museum",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7591, 7.9540]
+    },
+    "category": ["museum", "archaeological", "education"],
+    "details": {
+      "description": "Modern museum showcasing artifacts, replicas, and information about Sigiriya's history, art, and archaeological significance.",
+      "historicalInfo": "Opened in 2009, designed to provide comprehensive understanding of Sigiriya before climbing the rock fortress.",
+      "culturalSignificance": "Essential for understanding the historical and cultural context of Sigiriya, houses important archaeological finds.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:30-17:30",
+        "tuesday": "08:30-17:30",
+        "wednesday": "08:30-17:30",
+        "thursday": "08:30-17:30",
+        "friday": "08:30-17:30",
+        "saturday": "08:30-17:30",
+        "sunday": "08:30-17:30"
+      },
+      "entryFees": {
+        "includedWithSigiriya": true
+      },
+      "facilities": ["exhibits", "multimedia presentations", "air conditioning", "toilets", "gift shop"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "At Sigiriya entrance, same as rock fortress"
+      }
+    }
+  },
+  {
+    "locationId": "kaudulla-park-001",
+    "name": "Kaudulla National Park",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.9094, 8.1531]
+    },
+    "category": ["nature", "wildlife", "national-park"],
+    "details": {
+      "description": "National park centered around ancient Kaudulla reservoir, famous for elephant gatherings and diverse birdlife.",
+      "historicalInfo": "Kaudulla tank built by King Mahasen in 3rd century AD. Designated as national park in 2002.",
+      "culturalSignificance": "Part of elephant corridor connecting parks, important for wildlife conservation and eco-tourism.",
+      "bestTimeToVisit": ["August", "September", "October", "November", "December"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 60,
+        "foreign": 2500,
+        "vehicle": 250,
+        "jeepSafari": 4000
+      },
+      "facilities": ["visitor center", "safari jeeps", "guides", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "25km from Habarana, safari jeeps available"
+      }
+    }
+  },
+  {
+    "locationId": "lovers-leap-001",
+    "name": "Lover's Leap Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7711, 6.9869]
+    },
+    "category": ["nature", "waterfall", "scenic"],
+    "details": {
+      "description": "Scenic waterfall near Nuwara Eliya with romantic legend, offering spectacular views of tea estates and mountains.",
+      "historicalInfo": "Named after tragic legend of eloping lovers who leaped to their death when caught by the girl's father.",
+      "culturalSignificance": "Popular romantic destination, featured in local folklore and literature.",
+      "bestTimeToVisit": ["October", "November", "December", "January"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["viewing points", "photography spots"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "8km from Nuwara Eliya, accessible by tuk-tuk"
+      }
+    }
+  },
+  {
+    "locationId": "st-clairs-falls-001",
+    "name": "St Clair's Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.6989, 6.8711]
+    },
+    "category": ["nature", "waterfall", "scenic"],
+    "details": {
+      "description": "Known as 'Little Niagara of Sri Lanka', this 80m waterfall is one of the widest in the country with spectacular views.",
+      "historicalInfo": "Named after the St. Clair tea estate, which surrounds the waterfall area.",
+      "culturalSignificance": "One of Sri Lanka's most photographed waterfalls, symbol of the hill country's natural beauty.",
+      "bestTimeToVisit": ["October", "November", "December", "January"],
+      "averageDuration": 45
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["viewing points", "roadside parking", "tea shops nearby"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "On Hatton-Talawakele road, accessible by bus"
+      }
+    }
+  },
+  {
+    "locationId": "galle-clock-tower-001",
+    "name": "Galle Fort Clock Tower",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2165, 6.0268]
+    },
+    "category": ["historical", "landmark", "colonial"],
+    "details": {
+      "description": "Prominent colonial-era clock tower built in 1882, serving as iconic landmark within Galle Fort walls.",
+      "historicalInfo": "Built in 1882 in honor of Dr. P.D. Anthonisz, a renowned Burgher doctor. Originally served as navigation reference for ships.",
+      "culturalSignificance": "Iconic symbol of Galle Fort, represents British colonial contribution to the fort's architecture.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 15
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["photography spot", "nearby cafes and shops"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Within Galle Fort, walking distance"
+      }
+    }
+  },
+  {
+    "locationId": "japanese-peace-pagoda-001",
+    "name": "Japanese Peace Pagoda - Rumassala",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2445, 6.0234]
+    },
+    "category": ["religious", "monument", "scenic"],
+    "details": {
+      "description": "Buddhist stupa built by Japanese monks on Rumassala Hill, offering panoramic views of Galle harbor and ocean.",
+      "historicalInfo": "Built in 2004 by Japanese Buddhist monks as part of worldwide peace pagoda initiative started after WWII.",
+      "culturalSignificance": "Symbol of peace and reconciliation, promotes Buddhist values and international harmony.",
+      "bestTimeToVisit": ["morning", "sunset"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["meditation area", "viewing points", "parking", "walking paths"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "5km from Galle, accessible by tuk-tuk"
+      }
+    }
+  },
+  {
+    "locationId": "lighthouse-galle-001",
+    "name": "Lighthouse - Galle",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2190, 6.0245]
+    },
+    "category": ["historical", "landmark", "colonial"],
+    "details": {
+      "description": "Historic lighthouse within Galle Fort, oldest light station in Sri Lanka, offering views of the Indian Ocean.",
+      "historicalInfo": "Original lighthouse built in 1848, current structure from 1939 after fire destroyed the original.",
+      "culturalSignificance": "Maritime heritage landmark, symbol of Galle's importance as historic port city.",
+      "bestTimeToVisit": ["sunset"],
+      "averageDuration": 30
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "exterior 24 hours",
+        "tuesday": "exterior 24 hours",
+        "wednesday": "exterior 24 hours",
+        "thursday": "exterior 24 hours",
+        "friday": "exterior 24 hours",
+        "saturday": "exterior 24 hours",
+        "sunday": "exterior 24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["viewing area", "nearby rampart walk"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Within Galle Fort at Point Utrecht Bastion"
+      }
+    }
+  },
+  {
+    "locationId": "national-museum-galle-001",
+    "name": "National Museum Galle",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2178, 6.0281]
+    },
+    "category": ["museum", "historical", "cultural"],
+    "details": {
+      "description": "Museum in colonial building showcasing Galle's history from ancient times through colonial period to present.",
+      "historicalInfo": "Housed in Dutch colonial building from 1656, museum established in 1986.",
+      "culturalSignificance": "Preserves southern Sri Lanka's cultural heritage, maritime history, and colonial artifacts.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "09:00-17:00",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "closed"
+      },
+      "entryFees": {
+        "local": 25,
+        "foreign": 300
+      },
+      "facilities": ["exhibits", "guided tours available", "research library"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Within Galle Fort near main gate"
+      }
+    }
+  },
+  {
+    "locationId": "coconut-tree-hill-001",
+    "name": "Coconut Tree Hill",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.4578, 5.9412]
+    },
+    "category": ["scenic", "nature", "photography"],
+    "details": {
+      "description": "Instagram-famous hilltop covered with coconut palms offering panoramic views of ocean and Mirissa Bay.",
+      "historicalInfo": "Traditional coconut plantation that became popular tourist spot through social media in recent years.",
+      "culturalSignificance": "Symbol of Sri Lanka's tropical beauty, represents island's coconut cultivation heritage.",
+      "bestTimeToVisit": ["sunset", "sunrise"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["photo opportunities", "rope swings"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Walking distance from Mirissa Beach"
+      }
+    }
+  },
+  {
+    "locationId": "hummanaya-blow-hole-001",
+    "name": "Hummanaya Blow Hole",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7654, 5.9987]
+    },
+    "category": ["nature", "geological", "scenic"],
+    "details": {
+      "description": "Second largest blow hole in the world, shooting water up to 25m high through natural rock formation.",
+      "historicalInfo": "Natural formation created by sea erosion over thousands of years, name means 'roaring sound' in Sinhala.",
+      "culturalSignificance": "Natural wonder attracting tourists and scientists, important for local fishing community who use it to predict weather.",
+      "bestTimeToVisit": ["June", "July", "August", "September"],
+      "averageDuration": 45
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 250
+      },
+      "facilities": ["viewing platform", "safety barriers", "small shops", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Near Kudawella, 11km from Dickwella"
+      }
+    }
+  },
+  {
+    "locationId": "weligama-beach-001",
+    "name": "Weligama Beach",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.4289, 5.9745]
+    },
+    "category": ["beach", "surfing", "fishing"],
+    "details": {
+      "description": "Large bay famous for stilt fishing, beginner surfing, and Snake Island. Traditional fishing village atmosphere.",
+      "historicalInfo": "Name means 'sandy village'. Historic trading port, famous for traditional stilt fishing practice.",
+      "culturalSignificance": "Iconic stilt fishing location representing traditional Sri Lankan fishing culture, featured internationally.",
+      "bestTimeToVisit": ["December", "January", "February", "March"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["surf schools", "restaurants", "accommodation", "fishing boats", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "144km from Colombo, on main coastal road"
+      }
+    }
+  },
+  {
+    "locationId": "muthiyangana-temple-001",
+    "name": "Muthiyangana Raja Maha Vihara",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0333, 7.0167]
+    },
+    "category": ["temple", "religious", "pilgrimage"],
+    "details": {
+      "description": "Ancient Buddhist temple believed to be visited by Buddha himself, one of Solosmasthana (16 sacred sites).",
+      "historicalInfo": "According to tradition, Buddha visited this site during his third visit to Sri Lanka in 6th century BCE.",
+      "culturalSignificance": "Major pilgrimage site, one of 16 most sacred Buddhist sites in Sri Lanka, important for Theravada Buddhism.",
+      "bestTimeToVisit": ["Vesak", "Poson", "year-round"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "05:00-20:00",
+        "tuesday": "05:00-20:00",
+        "wednesday": "05:00-20:00",
+        "thursday": "05:00-20:00",
+        "friday": "05:00-20:00",
+        "saturday": "05:00-20:00",
+        "sunday": "05:00-20:00"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["parking", "shoe storage", "flower stalls", "meditation areas"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Located in Badulla town center"
+      }
+    }
+  },
+  {
+    "locationId": "devon-falls-001",
+    "name": "Devon Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.6122, 6.9289]
+    },
+    "category": ["nature", "waterfall", "scenic"],
+    "details": {
+      "description": "97m high waterfall named after English coffee pioneer, creating veil-like cascade visible from Hatton-Nuwara Eliya road.",
+      "historicalInfo": "Named after English coffee planter Devon who pioneered coffee cultivation in the area in 19th century.",
+      "culturalSignificance": "One of Sri Lanka's most beautiful waterfalls, featured in many films and documentaries.",
+      "bestTimeToVisit": ["October", "November", "December", "January"],
+      "averageDuration": 30
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["viewing points", "roadside parking"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "20km from Hatton on A7 highway"
+      }
+    }
+  },
+  {
+    "locationId": "single-tree-hill-001",
+    "name": "Single Tree Hill",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7689, 6.9523]
+    },
+    "category": ["scenic", "hiking", "photography"],
+    "details": {
+      "description": "Iconic hilltop with solitary tree offering 360-degree views of Nuwara Eliya valley and tea plantations.",
+      "historicalInfo": "Popular viewpoint that gained fame through social media, the single tree has become symbol of solitude and beauty.",
+      "culturalSignificance": "Instagram-famous location representing the scenic beauty of Sri Lanka's hill country.",
+      "bestTimeToVisit": ["morning", "sunset"],
+      "averageDuration": 90
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["hiking trail", "photography spots"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "7km from Nuwara Eliya, requires hiking"
+      }
+    }
+  },
+  {
+    "locationId": "sembuwatta-lake-001",
+    "name": "Sembuwatta Lake",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.6789, 7.1234]
+    },
+    "category": ["nature", "recreation", "scenic"],
+    "details": {
+      "description": "Man-made lake surrounded by pine forest with natural spring-fed pool, offering swimming and boating in cool climate.",
+      "historicalInfo": "Created by damming natural spring, developed as recreational area maintaining natural forest environment.",
+      "culturalSignificance": "Popular recreational spot for locals, example of sustainable tourism development.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "08:00-17:00"
+      },
+      "entryFees": {
+        "local": 50,
+        "foreign": 300
+      },
+      "facilities": ["swimming", "boat rides", "camping", "picnic areas", "changing rooms"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "20km from Matale via Elkaduwa"
+      }
+    }
+  },
+  {
+    "locationId": "nalanda-gedige-001",
+    "name": "Nalanda Gedige",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.6456, 7.6789]
+    },
+    "category": ["archaeological", "historical", "religious"],
+    "details": {
+      "description": "Unique 8th-9th century stone temple combining Hindu and Buddhist architecture, Sri Lanka's only all-stone building.",
+      "historicalInfo": "Built between 8th-10th century CE, showing South Indian Pallava architectural influence. Relocated due to reservoir project.",
+      "culturalSignificance": "Unique example of Hindu-Buddhist syncretism, important for understanding religious evolution in Sri Lanka.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 45
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "08:00-17:00",
+        "tuesday": "08:00-17:00",
+        "wednesday": "08:00-17:00",
+        "thursday": "08:00-17:00",
+        "friday": "08:00-17:00",
+        "saturday": "08:00-17:00",
+        "sunday": "08:00-17:00"
+      },
+      "entryFees": {
+        "local": 25,
+        "foreign": 500
+      },
+      "facilities": ["parking", "information boards"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Between Matale and Dambulla on A9 highway"
+      }
+    }
+  },
+  {
+    "locationId": "riverston-001",
+    "name": "Riverston",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7856, 7.5234]
+    },
+    "category": ["nature", "hiking", "scenic"],
+    "details": {
+      "description": "Part of Knuckles Mountain Range offering Mini World's End viewpoint, diverse ecosystems from grassland to cloud forest.",
+      "historicalInfo": "Named by British surveyors, part of Knuckles Conservation Forest designated UNESCO World Heritage site.",
+      "culturalSignificance": "Important biodiversity hotspot, traditional home of Vedda indigenous people.",
+      "bestTimeToVisit": ["December", "January", "February", "March"],
+      "averageDuration": 240
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 50,
+        "foreign": 650
+      },
+      "facilities": ["hiking trails", "camping sites", "guides available"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "30km from Matale, requires 4WD vehicle"
+      }
+    }
+  },
+  {
+    "locationId": "pitawala-pathana-001",
+    "name": "Pitawala Pathana",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.8012, 7.5123]
+    },
+    "category": ["nature", "hiking", "scenic"],
+    "details": {
+      "description": "Grassland plateau in Knuckles Range with Mini World's End cliff, offering panoramic views and unique ecosystem.",
+      "historicalInfo": "Part of ancient Knuckles forest range, traditionally used by villagers for cattle grazing.",
+      "culturalSignificance": "Sacred to local communities, important for watershed protection and biodiversity.",
+      "bestTimeToVisit": ["early morning"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": "06:00-17:00",
+        "sunday": "06:00-17:00"
+      },
+      "entryFees": {
+        "local": 30,
+        "foreign": 300
+      },
+      "facilities": ["hiking trails", "viewing points"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Via Riverston, requires hiking"
+      }
+    }
+  },
+  {
+    "locationId": "moon-plains-001",
+    "name": "Moon Plains",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7654, 6.9123]
+    },
+    "category": ["nature", "hiking", "wildlife"],
+    "details": {
+      "description": "High altitude grassland plateau resembling lunar landscape, home to endemic species including sambar deer.",
+      "historicalInfo": "Recently opened to public, previously restricted area used for research and conservation.",
+      "culturalSignificance": "Important for conservation of montane grassland ecosystem, habitat for endangered species.",
+      "bestTimeToVisit": ["morning", "clear days"],
+      "averageDuration": 150
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-16:00",
+        "tuesday": "06:00-16:00",
+        "wednesday": "06:00-16:00",
+        "thursday": "06:00-16:00",
+        "friday": "06:00-16:00",
+        "saturday": "06:00-16:00",
+        "sunday": "06:00-16:00"
+      },
+      "entryFees": {
+        "local": 100,
+        "foreign": 1000,
+        "vehicle": 500
+      },
+      "facilities": ["4WD only access", "guided tours", "wildlife viewing"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "22km from Nuwara Eliya, 4WD required"
+      }
+    }
+  },
+  {
+    "locationId": "laxapana-falls-001",
+    "name": "Laxapana Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.4956, 6.8734]
+    },
+    "category": ["nature", "waterfall", "hydropower"],
+    "details": {
+      "description": "126m waterfall, 8th highest in Sri Lanka, partially used for hydroelectric power generation.",
+      "historicalInfo": "Natural waterfall modified for Laxapana hydroelectric complex, Sri Lanka's largest power station.",
+      "culturalSignificance": "Balance between natural beauty and development, important for Sri Lanka's power generation.",
+      "bestTimeToVisit": ["October", "November", "December"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["viewing points", "hiking trails"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Near Kiriwan Eliya on Hatton-Nuwara Eliya road"
+      }
+    }
+  },
+  {
+    "locationId": "bambarakiri-ella-001",
+    "name": "Bambarakiri Ella",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0567, 6.9234]
+    },
+    "category": ["nature", "waterfall", "hiking"],
+    "details": {
+      "description": "299m high waterfall, tallest in Sri Lanka, cascading down rocky cliff face in Kalupahana area.",
+      "historicalInfo": "Name means 'bamboo milk waterfall' due to milky appearance of water spray resembling bamboo milk.",
+      "culturalSignificance": "Natural landmark of Badulla district, featured in local folklore and poetry.",
+      "bestTimeToVisit": ["March", "April", "May"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["hiking trail", "viewing points"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "18km from Haputale, requires hiking"
+      }
+    }
+  },
+  {
+    "locationId": "dunhinda-falls-001",
+    "name": "Dunhinda Falls",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0589, 7.0123]
+    },
+    "category": ["nature", "waterfall", "hiking"],
+    "details": {
+      "description": "64m waterfall known as 'Bridal Veil Falls' due to spray resembling veil, one of Sri Lanka's most beautiful falls.",
+      "historicalInfo": "Name means 'misty spray' in Sinhala. Featured in ancient texts and considered sacred by locals.",
+      "culturalSignificance": "Associated with local legends, considered one of most beautiful waterfalls in Sri Lanka.",
+      "bestTimeToVisit": ["October", "November", "December", "January"],
+      "averageDuration": 120
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 20,
+        "foreign": 300
+      },
+      "facilities": ["hiking trail", "viewing platform", "parking"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "5km from Badulla, 1km walk from entrance"
+      }
+    }
+  },
+  {
+    "locationId": "bomburu-ella-001",
+    "name": "Bomburu Ella Waterfall",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.7845, 6.8956]
+    },
+    "category": ["nature", "waterfall", "hiking"],
+    "details": {
+      "description": "Series of waterfalls with total height of 50m, surrounded by pristine forest in Sita Eliya forest reserve.",
+      "historicalInfo": "Associated with Ramayana legend, believed to be where Sita bathed during captivity.",
+      "culturalSignificance": "Religious significance in Hindu mythology, pristine natural environment preserved.",
+      "bestTimeToVisit": ["October", "November", "December"],
+      "averageDuration": 180
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": "06:00-17:00",
+        "sunday": "06:00-17:00"
+      },
+      "entryFees": {
+        "local": 0,
+        "foreign": 0
+      },
+      "facilities": ["hiking trails", "natural pools"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "Near Welimada, requires hiking through forest"
+      }
+    }
+  },
+  {
+    "locationId": "rawana-cave-001",
+    "name": "Ravana's Cave",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [81.0478, 6.8456]
+    },
+    "category": ["archaeological", "mythological", "historical"],
+    "details": {
+      "description": "Cave system believed to be where King Ravana hid Princess Sita in Ramayana epic, with underground tunnels.",
+      "historicalInfo": "According to legend, part of network of tunnels used by King Ravana. Archaeological evidence of prehistoric habitation.",
+      "culturalSignificance": "Important site in Ramayana trail, pilgrimage site for Hindu devotees, archaeological importance.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 45
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "06:00-18:00",
+        "tuesday": "06:00-18:00",
+        "wednesday": "06:00-18:00",
+        "thursday": "06:00-18:00",
+        "friday": "06:00-18:00",
+        "saturday": "06:00-18:00",
+        "sunday": "06:00-18:00"
+      },
+      "entryFees": {
+        "local": 25,
+        "foreign": 200
+      },
+      "facilities": ["guided tours", "parking", "small shops"],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "publicTransport": "2km from Ella town on Wellawaya road"
+      }
+    }
+  },
+  {
+    "locationId": "maritime-museum-001",
+    "name": "Maritime Museum",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [80.2176, 6.0282]
+    },
+    "category": ["museum", "maritime", "historical"],
+    "details": {
+      "description": "Museum showcasing Sri Lanka's maritime heritage including shipwrecks, marine archaeology, and naval history.",
+      "historicalInfo": "Established 1997 with Dutch assistance, houses artifacts from 21 historical shipwreck sites around Galle.",
+      "culturalSignificance": "Preserves maritime heritage of major port city, international trade history, underwater archaeology.",
+      "bestTimeToVisit": ["year-round"],
+      "averageDuration": 60
+    },
+    "logistics": {
+      "openingHours": {
+        "monday": "09:00-17:00",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "closed"
+      },
+      "entryFees": {
+        "local": 25,
+        "foreign": 300
+      },
+      "facilities": ["exhibits", "audio guides", "research library"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "publicTransport": "Within Galle Fort near old gate"
+      }
+    }
+  },
+   {
+        "locationId": "hiriketiya-beach-001",
+        "name": "Hiriketiya Beach",
+        "coordinates": {"type": "Point", "coordinates": [80.7123, 5.9456]},
+        "category": ["beach", "surfing", "nature"],
+        "details": {
+            "description": "Horseshoe-shaped bay perfect for swimming and beginner surfing, with laid-back atmosphere and beachside cafes.",
+            "historicalInfo": "Traditional fishing village that has recently developed into a popular tourist destination while maintaining its charm.",
+            "culturalSignificance": "Balance between tourism development and traditional fishing community lifestyle.",
+            "bestTimeToVisit": ["December", "January", "February", "March"],
+            "averageDuration": 240
+        },
+        "logistics": {
+            "openingHours": {"monday": "24 hours", "tuesday": "24 hours", "wednesday": "24 hours", "thursday": "24 hours", "friday": "24 hours", "saturday": "24 hours", "sunday": "24 hours"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["surf schools", "restaurants", "accommodation", "yoga studios"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "Near Dickwella, accessible by tuk-tuk"}
+        }
+    },
+    {
+        "locationId": "madiha-beach-001",
+        "name": "Madiha Beach",
+        "coordinates": {"type": "Point", "coordinates": [80.5234, 5.9567]},
+        "category": ["beach", "surfing", "nature"],
+        "details": {
+            "description": "Quiet beach with excellent surf breaks for intermediate to advanced surfers, less crowded alternative to nearby beaches.",
+            "historicalInfo": "Small fishing village beach that has gained popularity among surfers seeking uncrowded waves.",
+            "culturalSignificance": "Maintains traditional fishing village atmosphere while accommodating surf tourism.",
+            "bestTimeToVisit": ["November", "December", "January", "February", "March", "April"],
+            "averageDuration": 180
+        },
+        "logistics": {
+            "openingHours": {"monday": "24 hours", "tuesday": "24 hours", "wednesday": "24 hours", "thursday": "24 hours", "friday": "24 hours", "saturday": "24 hours", "sunday": "24 hours"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["surfboard rentals", "small restaurants", "guesthouses"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "Between Mirissa and Matara, accessible by bus"}
+        }
+    },
+    {
+        "locationId": "matara-fort-001",
+        "name": "Matara Fort",
+        "coordinates": {"type": "Point", "coordinates": [80.5456, 5.9478]},
+        "category": ["historical", "colonial", "heritage"],
+        "details": {
+            "description": "Small Dutch fort built in 1640, later modified by the British, featuring ramparts and old gateway.",
+            "historicalInfo": "Built by Dutch in 1640 to protect the Nilwala River entrance, later used by British as administrative center.",
+            "culturalSignificance": "Example of Dutch colonial military architecture, part of southern coastal defense system.",
+            "bestTimeToVisit": ["year-round"],
+            "averageDuration": 45
+        },
+        "logistics": {
+            "openingHours": {"monday": "24 hours", "tuesday": "24 hours", "wednesday": "24 hours", "thursday": "24 hours", "friday": "24 hours", "saturday": "24 hours", "sunday": "24 hours"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["nearby restaurants", "parking"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "In Matara city center"}
+        }
+    },
+    {
+        "locationId": "star-fort-matara-001",
+        "name": "Star Fort Matara",
+        "coordinates": {"type": "Point", "coordinates": [80.5467, 5.9489]},
+        "category": ["historical", "colonial", "museum"],
+        "details": {
+            "description": "Unique star-shaped fort built by Dutch in 1763, well-preserved example of military architecture with museum inside.",
+            "historicalInfo": "Built 1763 by Dutch VOC after Matara fort proved inadequate, unique star design for better defense.",
+            "culturalSignificance": "Best preserved Dutch fort in Sri Lanka, important example of 18th century military architecture.",
+            "bestTimeToVisit": ["year-round"],
+            "averageDuration": 60
+        },
+        "logistics": {
+            "openingHours": {"monday": "09:00-17:00", "tuesday": "09:00-17:00", "wednesday": "09:00-17:00", "thursday": "09:00-17:00", "friday": "09:00-17:00", "saturday": "09:00-17:00", "sunday": "09:00-17:00"},
+            "entryFees": {"local": 100, "foreign": 300},
+            "facilities": ["museum", "guided tours", "information center"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "Walking distance from Matara bus station"}
+        }
+    },
+    {
+        "locationId": "parrot-rock-001",
+        "name": "Parrot Rock",
+        "coordinates": {"type": "Point", "coordinates": [80.4601, 5.9501]},
+        "category": ["scenic", "nature", "photography"],
+        "details": {
+            "description": "Small rocky island just off Mirissa beach, accessible at low tide, popular for cliff jumping and snorkeling.",
+            "historicalInfo": "Named for its shape resembling a parrot's beak, traditional fishing spot for locals.",
+            "culturalSignificance": "Iconic landmark of Mirissa Beach, featured in tourism promotion.",
+            "bestTimeToVisit": ["morning", "low tide"],
+            "averageDuration": 60
+        },
+        "logistics": {
+            "openingHours": {"monday": "24 hours", "tuesday": "24 hours", "wednesday": "24 hours", "thursday": "24 hours", "friday": "24 hours", "saturday": "24 hours", "sunday": "24 hours"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["swimming area", "cliff jumping spot"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "On Mirissa Beach, wade or swim to reach"}
+        }
+    },
+    {
+        "locationId": "weherahena-temple-001",
+        "name": "Weherahena Poorwarama Rajamaha Viharaya",
+        "coordinates": {"type": "Point", "coordinates": [80.5678, 5.9512]},
+        "category": ["temple", "religious", "cultural"],
+        "details": {
+            "description": "Buddhist temple featuring one of the world's largest underground Buddha statues and elaborate tunnel complex with murals.",
+            "historicalInfo": "Built in early 20th century, underground image house constructed to protect from weather.",
+            "culturalSignificance": "Important pilgrimage site, unique underground temple architecture in Sri Lanka.",
+            "bestTimeToVisit": ["year-round"],
+            "averageDuration": 60
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-18:00", "tuesday": "06:00-18:00", "wednesday": "06:00-18:00", "thursday": "06:00-18:00", "friday": "06:00-18:00", "saturday": "06:00-18:00", "sunday": "06:00-18:00"},
+            "entryFees": {"local": 0, "foreign": 200},
+            "facilities": ["parking", "shoe storage", "underground tunnels"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "3km from Matara city"}
+        }
+    },
+    {
+        "locationId": "wewurukannala-temple-001",
+        "name": "Wewurukannala Buduraja Maha Viharaya",
+        "coordinates": {"type": "Point", "coordinates": [80.6123, 5.9723]},
+        "category": ["temple", "religious", "cultural"],
+        "details": {
+            "description": "Temple featuring 50m tall seated Buddha statue, largest in Sri Lanka, with museum depicting Buddhist hell scenes.",
+            "historicalInfo": "Ancient temple dating to 250 BCE, giant Buddha statue built in 1960s.",
+            "culturalSignificance": "Important Buddhist temple, unique hell museum teaches Buddhist philosophy about karma.",
+            "bestTimeToVisit": ["year-round"],
+            "averageDuration": 90
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-18:00", "tuesday": "06:00-18:00", "wednesday": "06:00-18:00", "thursday": "06:00-18:00", "friday": "06:00-18:00", "saturday": "06:00-18:00", "sunday": "06:00-18:00"},
+            "entryFees": {"local": 100, "foreign": 300},
+            "facilities": ["museum", "parking", "gift shop"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "Near Dickwella on main road"}
+        }
+    },
+    {
+        "locationId": "nilwala-crocodile-001",
+        "name": "Nilwala Crocodile Safari",
+        "coordinates": {"type": "Point", "coordinates": [80.5789, 5.9534]},
+        "category": ["wildlife", "safari", "nature"],
+        "details": {
+            "description": "River safari on Nilwala River to spot crocodiles in natural habitat, also see monitor lizards and various birds.",
+            "historicalInfo": "Traditional river used by locals, now developed for eco-tourism while protecting crocodile population.",
+            "culturalSignificance": "Conservation effort for endangered mugger crocodiles, supports local boat operators.",
+            "bestTimeToVisit": ["morning", "late afternoon"],
+            "averageDuration": 120
+        },
+        "logistics": {
+            "openingHours": {"monday": "08:00-17:00", "tuesday": "08:00-17:00", "wednesday": "08:00-17:00", "thursday": "08:00-17:00", "friday": "08:00-17:00", "saturday": "08:00-17:00", "sunday": "08:00-17:00"},
+            "entryFees": {"boatSafari": 2000},
+            "facilities": ["boat tours", "life jackets", "guides"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Matara, boats depart from various points"}
+        }
+    },
+    {
+        "locationId": "dondra-head-001",
+        "name": "Dondra Head",
+        "coordinates": {"type": "Point", "coordinates": [80.5901, 5.9223]},
+        "category": ["landmark", "scenic", "historical"],
+        "details": {
+            "description": "Southernmost point of Sri Lanka with historic lighthouse, offering panoramic ocean views and whale watching opportunities.",
+            "historicalInfo": "Lighthouse built in 1889 by British, tallest in Sri Lanka at 49m. Site of ancient Tenavaram temple.",
+            "culturalSignificance": "Southernmost point of Sri Lanka, important navigation landmark, historical religious site.",
+            "bestTimeToVisit": ["morning", "sunset"],
+            "averageDuration": 60
+        },
+        "logistics": {
+            "openingHours": {"monday": "09:00-17:00", "tuesday": "09:00-17:00", "wednesday": "09:00-17:00", "thursday": "09:00-17:00", "friday": "09:00-17:00", "saturday": "09:00-17:00", "sunday": "09:00-17:00"},
+            "entryFees": {"lighthouse": 200},
+            "facilities": ["viewing points", "parking"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "6km from Matara"}
+        }
+    },
+    {
+        "locationId": "bogoda-bridge-001",
+        "name": "Bogoda Raja Maha Viharaya",
+        "coordinates": {"type": "Point", "coordinates": [81.0234, 6.9845]},
+        "category": ["temple", "historical", "architecture"],
+        "details": {
+            "description": "Ancient temple with unique wooden bridge, oldest surviving wooden bridge in Sri Lanka built without nails.",
+            "historicalInfo": "Temple dates to 1st century BCE, wooden bridge built in 16th century using traditional techniques.",
+            "culturalSignificance": "Architectural marvel showing ancient Sri Lankan engineering, important Buddhist pilgrimage site.",
+            "bestTimeToVisit": ["year-round"],
+            "averageDuration": 60
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-18:00", "tuesday": "06:00-18:00", "wednesday": "06:00-18:00", "thursday": "06:00-18:00", "friday": "06:00-18:00", "saturday": "06:00-18:00", "sunday": "06:00-18:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["parking", "ancient bridge", "temple"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "12km from Badulla"}
+        }
+    },
+    {
+        "locationId": "narangala-hill-001",
+        "name": "Narangala Hill",
+        "coordinates": {"type": "Point", "coordinates": [81.0789, 6.9234]},
+        "category": ["hiking", "scenic", "adventure"],
+        "details": {
+            "description": "Challenging mountain hike with three peaks offering 360-degree views of Badulla district and surrounding mountains.",
+            "historicalInfo": "Ancient meditation site for Buddhist monks, remains of old structures on summit.",
+            "culturalSignificance": "Sacred mountain for locals, important for adventure tourism in Badulla region.",
+            "bestTimeToVisit": ["early morning", "December to March"],
+            "averageDuration": 360
+        },
+        "logistics": {
+            "openingHours": {"monday": "05:00-18:00", "tuesday": "05:00-18:00", "wednesday": "05:00-18:00", "thursday": "05:00-18:00", "friday": "05:00-18:00", "saturday": "05:00-18:00", "sunday": "05:00-18:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["hiking trail", "camping possible"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Meemure village, requires hiking"}
+        }
+    },
+    {
+        "locationId": "gartmore-falls-001",
+        "name": "Gartmore Falls",
+        "coordinates": {"type": "Point", "coordinates": [80.5812, 6.8923]},
+        "category": ["nature", "waterfall", "scenic"],
+        "details": {
+            "description": "Twin waterfall system dropping 50m through rocky terrain, surrounded by tea plantations and forest.",
+            "historicalInfo": "Named after Gartmore Estate, developed during British colonial tea expansion.",
+            "culturalSignificance": "Part of Sri Lanka's waterfall heritage in tea country.",
+            "bestTimeToVisit": ["October", "November", "December"],
+            "averageDuration": 45
+        },
+        "logistics": {
+            "openingHours": {"monday": "24 hours", "tuesday": "24 hours", "wednesday": "24 hours", "thursday": "24 hours", "friday": "24 hours", "saturday": "24 hours", "sunday": "24 hours"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["viewing points"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Maskeliya"}
+        }
+    },
+    {
+        "locationId": "kolapathana-falls-001",
+        "name": "Kolapathana Waterfall",
+        "coordinates": {"type": "Point", "coordinates": [80.6234, 6.8567]},
+        "category": ["nature", "waterfall", "hiking"],
+        "details": {
+            "description": "Hidden waterfall requiring trek through tea estates and jungle, rewards with pristine natural pools.",
+            "historicalInfo": "Recently discovered by tourists, long known to local tea estate workers.",
+            "culturalSignificance": "Example of undiscovered natural treasures in Sri Lanka's hill country.",
+            "bestTimeToVisit": ["October", "November", "December"],
+            "averageDuration": 240
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-17:00", "tuesday": "06:00-17:00", "wednesday": "06:00-17:00", "thursday": "06:00-17:00", "friday": "06:00-17:00", "saturday": "06:00-17:00", "sunday": "06:00-17:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["natural pools", "hiking trail"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Requires hiking from Norton Bridge"}
+        }
+    },
+    {
+        "locationId": "kadiyanlena-falls-001",
+        "name": "Kadiyanlena Falls",
+        "coordinates": {"type": "Point", "coordinates": [80.4967, 7.0234]},
+        "category": ["nature", "waterfall", "adventure"],
+        "details": {
+            "description": "Spectacular 200m waterfall with natural infinity pool at top, requires adventurous hike to reach.",
+            "historicalInfo": "Traditional bathing spot for locals, recently gained popularity through social media.",
+            "culturalSignificance": "Sacred to local communities, example of Sri Lanka's hidden natural wonders.",
+            "bestTimeToVisit": ["November", "December", "January"],
+            "averageDuration": 300
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-17:00", "tuesday": "06:00-17:00", "wednesday": "06:00-17:00", "thursday": "06:00-17:00", "friday": "06:00-17:00", "saturday": "06:00-17:00", "sunday": "06:00-17:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["hiking trail", "natural pools"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Nawalapitiya, requires difficult hike"}
+        }
+    },
+    {
+        "locationId": "mount-vernon-falls-001",
+        "name": "Mount Vernon Waterfall",
+        "coordinates": {"type": "Point", "coordinates": [80.6789, 6.8901]},
+        "category": ["nature", "waterfall", "scenic"],
+        "details": {
+            "description": "Picturesque waterfall in tea estate setting, easily accessible with viewing platform.",
+            "historicalInfo": "Part of Mount Vernon Estate established during British colonial period.",
+            "culturalSignificance": "Popular local picnic spot, part of tea country tourism circuit.",
+            "bestTimeToVisit": ["October", "November", "December"],
+            "averageDuration": 30
+        },
+        "logistics": {
+            "openingHours": {"monday": "08:00-17:00", "tuesday": "08:00-17:00", "wednesday": "08:00-17:00", "thursday": "08:00-17:00", "friday": "08:00-17:00", "saturday": "08:00-17:00", "sunday": "08:00-17:00"},
+            "entryFees": {"local": 50, "foreign": 100},
+            "facilities": ["viewing platform", "parking"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "On Hatton-Nuwara Eliya road"}
+        }
+    },
+    {
+        "locationId": "swarnagiri-viharaya-001",
+        "name": "Swarnagiri Maha Viharaya",
+        "coordinates": {"type": "Point", "coordinates": [80.5432, 6.8765]},
+        "category": ["temple", "religious", "hiking"],
+        "details": {
+            "description": "Ancient Buddhist temple on mountain top, requires climb of 500 steps, offers panoramic views.",
+            "historicalInfo": "Ancient temple site with history dating back over 2000 years, renovated multiple times.",
+            "culturalSignificance": "Important pilgrimage site, meditation center for monks.",
+            "bestTimeToVisit": ["Poya days", "early morning"],
+            "averageDuration": 120
+        },
+        "logistics": {
+            "openingHours": {"monday": "05:00-18:00", "tuesday": "05:00-18:00", "wednesday": "05:00-18:00", "thursday": "05:00-18:00", "friday": "05:00-18:00", "saturday": "05:00-18:00", "sunday": "05:00-18:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["parking", "steps with railing"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Balangoda"}
+        }
+    },
+    {
+        "locationId": "upper-kothmale-001",
+        "name": "Upper Kothmale Reservoir View Point",
+        "coordinates": {"type": "Point", "coordinates": [80.5876, 7.0123]},
+        "category": ["scenic", "infrastructure", "photography"],
+        "details": {
+            "description": "Scenic viewpoint overlooking large reservoir surrounded by mountains, part of hydroelectric project.",
+            "historicalInfo": "Created by Upper Kotmale Hydropower Project completed in 2012, Sri Lanka's third largest hydroelectric scheme.",
+            "culturalSignificance": "Example of modern infrastructure development, popular photography location.",
+            "bestTimeToVisit": ["morning", "clear days"],
+            "averageDuration": 30
+        },
+        "logistics": {
+            "openingHours": {"monday": "24 hours", "tuesday": "24 hours", "wednesday": "24 hours", "thursday": "24 hours", "friday": "24 hours", "saturday": "24 hours", "sunday": "24 hours"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["parking", "viewing area"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "On Nuwara Eliya-Gampola road"}
+        }
+    },
+    {
+        "locationId": "galpotha-waterslide-001",
+        "name": "Galpotha Natural Water Slide",
+        "coordinates": {"type": "Point", "coordinates": [80.6234, 7.0456]},
+        "category": ["nature", "adventure", "recreation"],
+        "details": {
+            "description": "Natural rock water slide formed by stream flowing over smooth granite, popular swimming hole.",
+            "historicalInfo": "Traditional bathing spot for locals, gained wider popularity in recent years.",
+            "culturalSignificance": "Example of natural recreational sites used by local communities.",
+            "bestTimeToVisit": ["year-round", "avoid rainy season"],
+            "averageDuration": 120
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-18:00", "tuesday": "06:00-18:00", "wednesday": "06:00-18:00", "thursday": "06:00-18:00", "friday": "06:00-18:00", "saturday": "06:00-18:00", "sunday": "06:00-18:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["natural pools", "changing areas"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Ramboda, short hike required"}
+        }
+    },
+    {
+        "locationId": "hunnasgiriya-falls-001",
+        "name": "Hunnasgiriya Water Falls",
+        "coordinates": {"type": "Point", "coordinates": [80.6789, 7.1234]},
+        "category": ["nature", "waterfall", "scenic"],
+        "details": {
+            "description": "Series of seven waterfalls in Knuckles range, surrounded by pristine forest and tea estates.",
+            "historicalInfo": "Part of traditional spice growing region, waterfalls used for ancient irrigation systems.",
+            "culturalSignificance": "Important water source for surrounding villages, part of Knuckles conservation area.",
+            "bestTimeToVisit": ["October", "November", "December"],
+            "averageDuration": 180
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-18:00", "tuesday": "06:00-18:00", "wednesday": "06:00-18:00", "thursday": "06:00-18:00", "friday": "06:00-18:00", "saturday": "06:00-18:00", "sunday": "06:00-18:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["hiking trails", "viewing points"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "26km from Kandy via Hunnasgiriya"}
+        }
+    },
+    {
+        "locationId": "sera-ella-falls-001",
+        "name": "Sera Ella Water Falls",
+        "coordinates": {"type": "Point", "coordinates": [80.7345, 7.2156]},
+        "category": ["nature", "waterfall", "adventure"],
+        "details": {
+            "description": "Hidden 10m waterfall with large natural pool, requires adventurous trek through rubber plantation.",
+            "historicalInfo": "Traditional bathing spot known to locals, recently discovered by adventure tourists.",
+            "culturalSignificance": "Popular among local youth, example of undiscovered natural pools.",
+            "bestTimeToVisit": ["year-round", "best after rain"],
+            "averageDuration": 150
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-17:00", "tuesday": "06:00-17:00", "wednesday": "06:00-17:00", "thursday": "06:00-17:00", "friday": "06:00-17:00", "saturday": "06:00-17:00", "sunday": "06:00-17:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["natural pool", "cliff jumping"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Matale, requires trek"}
+        }
+    },
+    {
+        "locationId": "rangala-pool-001",
+        "name": "Rangala Natural Pool",
+        "coordinates": {"type": "Point", "coordinates": [80.7891, 7.2567]},
+        "category": ["nature", "swimming", "recreation"],
+        "details": {
+            "description": "Crystal clear natural infinity pool at mountain edge with breathtaking valley views.",
+            "historicalInfo": "Recently discovered natural pool that has become popular through social media.",
+            "culturalSignificance": "Example of Sri Lanka's hidden natural swimming spots.",
+            "bestTimeToVisit": ["morning", "dry season"],
+            "averageDuration": 120
+        },
+        "logistics": {
+            "openingHours": {"monday": "06:00-17:00", "tuesday": "06:00-17:00", "wednesday": "06:00-17:00", "thursday": "06:00-17:00", "friday": "06:00-17:00", "saturday": "06:00-17:00", "sunday": "06:00-17:00"},
+            "entryFees": {"local": 0, "foreign": 0},
+            "facilities": ["natural pool", "mountain views"],
+            "accessibility": {"wheelchairAccessible": false, "publicTransport": "Near Rangala, requires hike"}
+        }
+    },
+    {
+        "locationId": "lucky-land-spice-001",
+        "name": "Lucky Land Spice Garden",
+        "coordinates": {"type": "Point", "coordinates": [80.5432, 7.2789]},
+        "category": ["agriculture", "education", "shopping"],
+        "details": {
+            "description": "Traditional spice garden offering tours explaining cultivation and uses of various spices and herbs.",
+            "historicalInfo": "Part of centuries-old spice cultivation tradition in Matale region.",
+            "culturalSignificance": "Preserves traditional knowledge of spice cultivation and Ayurvedic medicine.",
+            "bestTimeToVisit": ["year-round"],
+            "averageDuration": 90
+        },
+        "logistics": {
+            "openingHours": {"monday": "08:00-17:30", "tuesday": "08:00-17:30", "wednesday": "08:00-17:30", "thursday": "08:00-17:30", "friday": "08:00-17:30", "saturday": "08:00-17:30", "sunday": "08:00-17:30"},
+            "entryFees": {"tour": "free", "shopping": "optional"},
+            "facilities": ["guided tours", "shop", "restaurant", "parking"],
+            "accessibility": {"wheelchairAccessible": true, "publicTransport": "On Kandy-Matale road"}
+        }
+    }
+]

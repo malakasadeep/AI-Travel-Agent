@@ -1,0 +1,34 @@
+# Core ML/DL Frameworks
+torch>=2.0.0  # PyTorch for deep learning
+transformers>=4.30.0  # Hugging Face Transformers for NLP models
+scikit-learn>=1.3.0  # General purpose machine learning
+xgboost>=1.7.0  # Gradient boosting framework
+
+# Data Processing & Analysis
+pandas>=2.0.0  # Data manipulation and analysis
+numpy>=1.24.0  # Numerical computing
+
+# NLP & Text Processing
+sentence-transformers>=2.2.2  # For generating embeddings
+nltk>=3.8.1  # Natural Language Toolkit
+spacy>=3.6.0  # Industrial-strength NLP
+
+# API & Web Server
+fastapi>=0.100.0  # Modern web framework for building APIs
+uvicorn[standard]>=0.23.0  # ASGI server
+python-multipart>=0.0.6  # Form data parsing for FastAPI
+
+# Database & Storage
+pymongo>=4.4.0  # MongoDB driver
+redis>=4.6.0  # Redis client
+chromadb>=0.4.0  # Vector database for embeddings
+
+# Utilities & Configuration
+python-dotenv>=1.0.0  # Load environment variables from .env
+pydantic>=2.0.0  # Data validation using Python type hints
+pydantic-settings>=2.0.0 # Settings management for Pydantic
+
+# Development & Research
+jupyter>=1.0.0  # Interactive computing
+matplotlib>=3.7.0  # Plotting library
+seaborn>=0.12.0  # Statistical data visualization
