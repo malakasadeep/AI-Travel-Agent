@@ -1,0 +1,75 @@
+
+FEATURE DOCUMENTATION
+Generated: 2025-11-20 03:58:17
+======================================================================
+
+FILE: review_features_20251120_035817.csv
+ROWS: 14,951
+COLUMNS: 43
+
+======================================================================
+FEATURE CATEGORIES
+======================================================================
+
+1. TEXT FEATURES (10 features)
+   - char_count: Number of characters in review
+   - word_count: Number of words in review
+   - sentence_count: Number of sentences
+   - avg_word_length: Average length of words
+   - uppercase_ratio: Ratio of uppercase letters
+   - punctuation_density: Ratio of punctuation marks
+   - exclamation_count: Number of exclamation marks
+   - question_count: Number of question marks
+   - has_emoji: Binary indicator for emoji presence
+   - readability_score: Flesch Reading Ease score
+
+2. SENTIMENT FEATURES (4 features)
+   - sentiment_pos: VADER positive sentiment score (0-1)
+   - sentiment_neg: VADER negative sentiment score (0-1)
+   - sentiment_neu: VADER neutral sentiment score (0-1)
+   - sentiment_compound: VADER compound score (-1 to +1)
+
+3. KEYWORD FEATURES (6 features)
+   - positive_keyword_count: Count of positive keywords
+   - negative_keyword_count: Count of negative keywords
+   - beach_keyword_count: Count of beach-related keywords
+   - temple_keyword_count: Count of temple-related keywords
+   - nature_keyword_count: Count of nature-related keywords
+   - historical_keyword_count: Count of historical keywords
+
+4. LOCATION FEATURES (19 features)
+   - has_beach: Binary indicator for beach locations
+   - has_temple: Binary indicator for temple locations
+   - has_nature: Binary indicator for nature locations
+   - has_historical: Binary indicator for historical sites
+   - district_encoded: Label-encoded district
+   - latitude: Location latitude (decimal degrees)
+   - longitude: Location longitude (decimal degrees)
+   - loctype_*: One-hot encoded location types
+
+5. METADATA (4 fields)
+   - review_id: Unique review identifier
+   - destination: Destination name
+   - district: District name
+   - location_type: Location category
+
+======================================================================
+USAGE NOTES
+======================================================================
+
+- All features are numerical except metadata fields
+- Boolean features are encoded as 0/1
+- One-hot encoded features have prefix 'loctype_'
+- Missing coordinates are filled with 0
+- Features are ready for ML model training
+
+======================================================================
+RECOMMENDED MODELS
+======================================================================
+
+- Sentiment Classification: Logistic Regression, Random Forest
+- Location Recommendation: Collaborative Filtering, Content-Based
+- Review Clustering: K-Means, DBSCAN
+- Sentiment Forecasting: LSTM, Ensemble Methods
+
+======================================================================
